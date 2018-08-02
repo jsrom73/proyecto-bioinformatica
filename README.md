@@ -14,3 +14,9 @@ genes cambiaro nde manera radical
 ...
 ...
 pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+
+Estos son los siguientes  datos: CCGCGC
+CGXCCGGCCCCCCCC
+CCCCCCC
+
+cCCCCc
