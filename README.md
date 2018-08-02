@@ -13,4 +13,17 @@ genes cambiaro nde manera radical
 ...
 ...
 ...
-pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+
+
+
+3ra  version de cambios 
+
+ddd
+d
+
+d
+d
+d
+d
+p
