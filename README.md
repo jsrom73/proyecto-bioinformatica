@@ -6,6 +6,7 @@ Objetivo del proyecto
 =====================================================================================
 
 genes cambiaro nde manera radical
+Primera edicion
 ...
 ...
 ...
@@ -13,6 +14,7 @@ genes cambiaro nde manera radical
 ...
 ...
 ...
+<<<<<<< HEAD
 ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
 
 
@@ -27,3 +29,12 @@ d
 d
 d
 p
+=======
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+
+Estos son los siguientes  datos: CCGCGC
+CGXCCGGCCCCCCCC
+CCCCCCC
+
+cCCCCc
+>>>>>>> 177062093edcdf69cb9c7b8b141cd6c164111247
